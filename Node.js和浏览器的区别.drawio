@@ -49,9 +49,6 @@
         <mxCell id="9CkLKUWdHfgpoOwfOIhb-15" value="&lt;i style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;操作系统(网卡/硬盘/显卡...)&lt;/b&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" parent="9CkLKUWdHfgpoOwfOIhb-16" vertex="1">
           <mxGeometry x="635.0921052631578" y="623.2" width="433.1842105263158" height="91.2" as="geometry" />
         </mxCell>
-        <mxCell id="JDFXuIYEvLCVEcRMEmeG-1" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="9CkLKUWdHfgpoOwfOIhb-16">
-          <mxGeometry x="546" y="340" width="60" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
