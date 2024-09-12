@@ -118,6 +118,19 @@
         <mxCell id="wa8FjlfhGtUEHZc12TWI-49" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b style=&quot;&quot;&gt;LIBUV&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 32px;&quot;&gt;&lt;font face=&quot;ewVS7R6IZLx0vih2EcNN&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(ASYNCHRONOUS L/O)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="985" y="100" width="390" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-66" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1095" y="720" />
+              <mxPoint x="1095" y="880" />
+              <mxPoint x="1375" y="880" />
+              <mxPoint x="1375" y="720" />
+            </Array>
+            <mxPoint x="1230" y="720" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
