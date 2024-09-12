@@ -31,12 +31,12 @@
         <mxCell id="wa8FjlfhGtUEHZc12TWI-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="700" y="430" as="targetPoint" />
+            <mxPoint x="680" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wa8FjlfhGtUEHZc12TWI-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="520" as="sourcePoint" />
+            <mxPoint x="680" y="520" as="sourcePoint" />
             <mxPoint x="400" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
