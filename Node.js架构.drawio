@@ -40,6 +40,9 @@
             <mxPoint x="400" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-9" value="&lt;b style=&quot;font-size: 28px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 28px;&quot;&gt;V8&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Sg2590R3SVGVvx_BgW9V&quot; style=&quot;font-size: 28px;&quot;&gt;（JAVASCRIPT ENGINE）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;strokeColor=#FFFFFF;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="670" y="40" width="480" height="640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
