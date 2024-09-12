@@ -118,7 +118,7 @@
         <mxCell id="wa8FjlfhGtUEHZc12TWI-49" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b style=&quot;&quot;&gt;LIBUV&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 32px;&quot;&gt;&lt;font face=&quot;ewVS7R6IZLx0vih2EcNN&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(ASYNCHRONOUS L/O)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="985" y="100" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="wa8FjlfhGtUEHZc12TWI-66" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-66" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1220" y="720" as="sourcePoint" />
             <Array as="points">
@@ -130,6 +130,9 @@
             <mxPoint x="1230" y="720" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-67" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;EVENT&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font face=&quot;YlzoEgPcgHeyzff_NdyH&quot; style=&quot;font-size: 30px;&quot;&gt;LOOP&lt;/font&gt;&lt;/div&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="787" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
