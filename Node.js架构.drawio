@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="第 1 页" id="Js2gKHvIyTyq0PtMAdm4">
-    <mxGraphModel dx="2252" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#F2F2F2" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#F2F2F2" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wa8FjlfhGtUEHZc12TWI-9" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;strokeColor=#FFFFFF;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-9" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;strokeColor=#FFFFFF;arcSize=10;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="40" width="880" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="wa8FjlfhGtUEHZc12TWI-1" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;APPLICATION&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -13,7 +13,7 @@
         <mxCell id="wa8FjlfhGtUEHZc12TWI-2" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;V8&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;（JAVASCRIPT ENGINE）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;strokeColor=#FFFFFF;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="540" width="360" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="wa8FjlfhGtUEHZc12TWI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;strokeColor=#FFFFFF;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;strokeColor=#FFFFFF;arcSize=10;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="260" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="wa8FjlfhGtUEHZc12TWI-4" value="&lt;b&gt;&lt;font color=&quot;#a3a3a3&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 28px;&quot;&gt;JAVASCRIPT&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -48,6 +48,21 @@
         </mxCell>
         <mxCell id="wa8FjlfhGtUEHZc12TWI-27" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;NODE.JS&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;BINDINGS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;(NODE API)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="467.5" y="290" width="205" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-28" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;dashed=1;fontFamily=Comic Sans MS;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="770" y="600" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-29" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;dashed=1;fontFamily=Comic Sans MS;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="770" y="610" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-30" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;dashed=1;fontFamily=Comic Sans MS;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="770" y="620" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-31" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;dashed=1;fontFamily=Comic Sans MS;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="770" y="630" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-32" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;dashed=1;fontFamily=Comic Sans MS;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="770" y="640" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
