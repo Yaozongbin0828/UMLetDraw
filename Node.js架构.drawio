@@ -46,6 +46,9 @@
         <mxCell id="wa8FjlfhGtUEHZc12TWI-14" value="OS&#xa;OPENATION" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;dashed=1;fontFamily=Comic Sans MS;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="460" y="770" width="220" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="wa8FjlfhGtUEHZc12TWI-27" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;NODE.JS&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;BINDINGS&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;(NODE API)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="290" width="205" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
