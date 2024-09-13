@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="第 1 页" id="LvspWGDVvsqheb7RMKRR">
-    <mxGraphModel dx="3294" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="8235" dy="4240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2239" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,21 @@
         </mxCell>
         <mxCell id="ktVLUo-EPOUu5IFAiA05-23" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;Master components&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;Colocated, or spread across machines,&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;as dictated by cluster size.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1420" width="910" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ktVLUo-EPOUu5IFAiA05-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=entityRelationEdgeStyle;strokeWidth=6;exitX=0.999;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ktVLUo-EPOUu5IFAiA05-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2290" y="400" as="sourcePoint" />
+            <mxPoint x="2220" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktVLUo-EPOUu5IFAiA05-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=entityRelationEdgeStyle;strokeWidth=6;exitX=1.001;exitY=0.796;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ktVLUo-EPOUu5IFAiA05-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="1270" as="sourcePoint" />
+            <mxPoint x="2170" y="1470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1210" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
