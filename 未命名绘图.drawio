@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="第 1 页" id="LvspWGDVvsqheb7RMKRR">
-    <mxGraphModel dx="4706" dy="2423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2239" math="0" shadow="0">
+    <mxGraphModel dx="2353" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2239" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,7 @@
         <mxCell id="ktVLUo-EPOUu5IFAiA05-32" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="2480" y="10" width="430" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ktVLUo-EPOUu5IFAiA05-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ktVLUo-EPOUu5IFAiA05-35" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Firewall&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="2580" y="320" width="230" height="90" as="geometry" />
         </mxCell>
       </root>
