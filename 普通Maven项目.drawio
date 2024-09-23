@@ -5,14 +5,43 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="93jZfcFiZMJRSnakZWsJ-1" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;父项目&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="170" height="120" as="geometry" />
+          <mxGeometry x="20" y="80" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="93jZfcFiZMJRSnakZWsJ-4" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;strokeWidth=6;curved=1;" edge="1" parent="1" source="93jZfcFiZMJRSnakZWsJ-1">
+        <mxCell id="93jZfcFiZMJRSnakZWsJ-4" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;strokeWidth=6;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="93jZfcFiZMJRSnakZWsJ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="200" as="sourcePoint" />
-            <mxPoint x="400" y="140" as="targetPoint" />
-            <Array as="points" />
+            <mxPoint x="210" y="120.88" as="sourcePoint" />
+            <mxPoint x="400" y="125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="125" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="93jZfcFiZMJRSnakZWsJ-5" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;strokeWidth=6;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="93jZfcFiZMJRSnakZWsJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="106.01999999999995" y="200.00000000000006" as="sourcePoint" />
+            <mxPoint x="104" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="103.97" y="328.8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="93jZfcFiZMJRSnakZWsJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="93jZfcFiZMJRSnakZWsJ-1" target="93jZfcFiZMJRSnakZWsJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93jZfcFiZMJRSnakZWsJ-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="250" width="180" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="93jZfcFiZMJRSnakZWsJ-7" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;子项目&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="93jZfcFiZMJRSnakZWsJ-10">
+          <mxGeometry width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="93jZfcFiZMJRSnakZWsJ-8" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;子项目&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="93jZfcFiZMJRSnakZWsJ-10">
+          <mxGeometry y="310" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="93jZfcFiZMJRSnakZWsJ-9" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;子项目&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="93jZfcFiZMJRSnakZWsJ-10">
+          <mxGeometry y="150" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="93jZfcFiZMJRSnakZWsJ-11" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 50px;&quot;&gt;项目不写代码,&lt;b&gt;只管理公共的jar包&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="730" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
