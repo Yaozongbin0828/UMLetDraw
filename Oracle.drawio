@@ -10,6 +10,9 @@
         <mxCell id="ZOqd9_wRwCqgrdEeB94r-2" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="440" width="205" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="ZOqd9_wRwCqgrdEeB94r-3" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
