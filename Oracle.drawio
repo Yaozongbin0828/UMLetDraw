@@ -37,10 +37,10 @@
         <mxCell id="iI4Hv2SD_ylIdM6wp7LN-35" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Comic Sans MS&quot;&gt;Shared Pool&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iI4Hv2SD_ylIdM6wp7LN-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iI4Hv2SD_ylIdM6wp7LN-37" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Comic Sans MS&quot;&gt;Library&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 20px;&quot;&gt;Cache&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="430" y="120" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iI4Hv2SD_ylIdM6wp7LN-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iI4Hv2SD_ylIdM6wp7LN-38" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Comic Sans MS&quot;&gt;Data Dictionary&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Comic Sans MS&quot;&gt;Cache&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="430" y="230" width="270" height="100" as="geometry" />
         </mxCell>
       </root>
