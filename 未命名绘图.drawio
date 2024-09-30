@@ -4,23 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FIkbmhSrTPldAUlg6IpU-1" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="FIkbmhSrTPldAUlg6IpU-1" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FIkbmhSrTPldAUlg6IpU-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="FIkbmhSrTPldAUlg6IpU-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FIkbmhSrTPldAUlg6IpU-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIkbmhSrTPldAUlg6IpU-3" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FIkbmhSrTPldAUlg6IpU-4" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIkbmhSrTPldAUlg6IpU-4" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="610" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FIkbmhSrTPldAUlg6IpU-5" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIkbmhSrTPldAUlg6IpU-5" value="" style="shape=xor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="480" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FIkbmhSrTPldAUlg6IpU-6" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIkbmhSrTPldAUlg6IpU-6" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="450" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ykbL4nU6pdP8_pioJeCS-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykbL4nU6pdP8_pioJeCS-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
