@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2353" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,6 +144,15 @@
         </mxCell>
         <mxCell id="b_iwYdCU5MKYt9WEDLB1-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;进行程序开发&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="700" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b_iwYdCU5MKYt9WEDLB1-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;论文撰写&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="800" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b_iwYdCU5MKYt9WEDLB1-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.502;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="b_iwYdCU5MKYt9WEDLB1-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.8" y="750" as="sourcePoint" />
+            <mxPoint x="570.01" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
