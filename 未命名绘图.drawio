@@ -35,7 +35,7 @@
           <mxGeometry x="2559.999014778324" y="1420.0009302325584" width="639.7536945812808" height="191.5116279069768" as="geometry" />
         </mxCell>
         <mxCell id="xtGrEszPCfqQNLeVO8Wt-368" value="离线编辑" style="whiteSpace=wrap;strokeWidth=6;fontFamily=黑体;fontSize=58;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2120.0046798029557" y="1819.9979069767446" width="508.5221674876848" height="191.5116279069768" as="geometry" />
+          <mxGeometry x="2060.0046798029557" y="1859.9979069767446" width="508.5221674876848" height="191.5116279069768" as="geometry" />
         </mxCell>
         <mxCell id="xtGrEszPCfqQNLeVO8Wt-370" value="主题切换" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;fontFamily=黑体;fontSize=58;strokeWidth=6;" edge="1" parent="1" source="xtGrEszPCfqQNLeVO8Wt-358" target="xtGrEszPCfqQNLeVO8Wt-360">
           <mxGeometry relative="1" as="geometry">
